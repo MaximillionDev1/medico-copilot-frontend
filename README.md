@@ -205,7 +205,8 @@ npm run dev
 ## 📧 Contato
 
 **Matheus Vinicius Rodrigues da Silva**  
-Email: vagas@devclub.com.br
+Email: matheusdevsilv4@gmail.com
+Linkedin: https://www.linkedin.com/in/matheus-vinicius-dev/
 
 ---
 
