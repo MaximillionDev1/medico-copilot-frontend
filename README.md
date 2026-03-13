@@ -1,6 +1,12 @@
-# 🎨 Médico Copilot - Frontend
+<h1 align="center">🩺 Médico Copilot</h1>
 
-Interface web moderna para o sistema de diagnóstico médico assistido por IA.
+<p align="center">
+Interface frontend de um assistente médico inteligente
+</p>
+
+<p align="center">
+  <img src="./assets/preview.gif" alt="Preview da aplicação" width="900"/>
+</p>
 
 **Desenvolvedor:** Matheus Vinicius Rodrigues da Silva  
 **Teste Técnico:** MedNote.IA
