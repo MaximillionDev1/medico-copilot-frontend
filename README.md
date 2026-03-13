@@ -5,7 +5,7 @@ Interface frontend de um assistente médico inteligente
 </p>
 
 <p align="center">
-  <img src="./assets/preview.gif" alt="Preview da aplicação" width="900"/>
+  <img src="./src/assets/preview.gif" alt="Preview da aplicação" width="900"/>
 </p>
 
 **Desenvolvedor:** Matheus Vinicius Rodrigues da Silva  
